@@ -5,3 +5,4 @@ Date sources and tools:
 EDGAR Renderer
 https://arelle.org/pub/applications/
 Dev https://arelle.atlassian.net/jira/software/c/projects/ER/issues
+https://www.federalregister.gov/reader-aids/developer-resources
